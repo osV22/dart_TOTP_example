@@ -1,4 +1,4 @@
-# otp_practice
+# Dart TOTP Example
 
 Example of basic implementation of TOTP for Google Authenticator, etc...
 
